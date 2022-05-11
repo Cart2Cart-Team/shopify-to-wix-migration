@@ -1,6 +1,6 @@
 # Shopify to WIX
 ## Overview
-Cart2Cart Shopping Cart Migration service is a perfect tool to move your store’s data from Shopify to WIX store flawlessly and without errors. The data transfer takes only up to 5 minutes to set up and guarantees 100% uptime of your current Shopify store. Thus, you’ll be able to move your current Shopify store entities, including products, orders, customers, etc. to new WIX store in a totally automated way.
+Cart2Cart Shopping Cart Migration service is a perfect tool to move your store’s data [from Shopify to WIX store](https://www.shopping-cart-migration.com/shopping-cart-migration-options/shopify-to-wix-migration?utm_source=github.com&utm_medium=referral&utm_term=shopify-wix&utm_campaign=optimized-page) flawlessly and without errors. The data transfer takes only up to 5 minutes to set up and guarantees 100% uptime of your current Shopify store. Thus, you’ll be able to move your current Shopify store entities, including products, orders, customers, etc. to new WIX store in a totally automated way.
 
 ## What Data Can be Migrated?
 Cart2Cart will assist you in moving the following data entities from current Shopify to new WIX store:
@@ -10,7 +10,7 @@ Cart2Cart will assist you in moving the following data entities from current Sho
 * **_Coupons_** (Description, Status, Coupon Code, Uses Per Coupon, Uses Per Customer, Type Discount, Total available, Minimum Spent, Product, Coupon Expire Date).
 
 
-To get the full list of transferable entities, please check the table here.
+To get the full list of transferable entities, please check the table [here.](https://www.shopping-cart-migration.com/shopping-cart-migration-options/shopify-to-wix-migration?utm_source=github.com&utm_medium=referral&utm_term=shopify-wix&utm_campaign=optimized-page)
 
 ## What Are the Additional Migration Options?
 Users have the ability to choose some of the extra migration options to make the replatforming even more seamless and trouble-free:
@@ -28,9 +28,9 @@ Users have the ability to choose some of the extra migration options to make the
 * **Launch the Full migration** to start the Shopify database transfer to your new WIX store.
 
 
-Watch our video tutorial to see how easy it is to automatically migrate Shopify store to WIX with the help of the Cart2Cart migration tool.
+Watch our [video tutorial](https://www.youtube.com/watch?v=FShMuddDHVQ&t=3s?utm_source=github.com&utm_medium=referral&utm_term=shopify-wix&utm_campaign=optimized-page) to see how easy it is to automatically migrate Shopify store to WIX with the help of the Cart2Cart migration tool.
 
-Check the detailed guide on Shopify to WIX migration. 
+Check the detailed [guide on Shopify to WIX migration.](https://www.shopping-cart-migration.com/migration-guides/how-to-migrate-your-store-from-shopify-to-wix-a-step-by-step-tutorial-for-non-techies?utm_source=github.com&utm_medium=referral&utm_term=shopify-wix&utm_campaign=optimized-page) 
 
 ## Why Choose Cart2Cart?
 * **Simple 4-step migration** that will save your time and effort.
@@ -39,4 +39,4 @@ Check the detailed guide on Shopify to WIX migration.
 * **24/7 customer support** via live chat, phone, or ticket assistance.
 * **Flexible pricing policy.** The total migration cost depends on the amount of data you move to new WIX store and the additional options you select.
 * **Free demo available.** Move a limited number of data from current Shopify store to WIX store just within 30 minutes. No risk involved, no credit card required.
-* **Extensive FAQ section** that provides customers with the answers to the most common questions concerning WIX migration.
+* **Extensive [FAQ section](https://www.shopping-cart-migration.com/faq/wix?utm_source=github.com&utm_medium=referral&utm_term=shopify-wix&utm_campaign=optimized-page)** that provides customers with the answers to the most common questions concerning WIX migration.
